@@ -19,7 +19,7 @@ This is a _practice website_ and _code portfolio_ for the evening part-time cour
 
 ### Known Bugs
 
-tbd.
+* Index.html page in master branch not updating with code updates even though terminal shows file as tracked and changes have been committed.
 
 ### Technologies used
 * HTML
