@@ -2,8 +2,6 @@
 #### Author: Katya Lobanova
 #### Project: Coding practice for Epicodus
 
-link to site on GitHub Pages
-
 ### Description
 
 This is a _practice website_ and _code portfolio_ for the evening part-time course at Epicodus.
@@ -11,7 +9,7 @@ This is a _practice website_ and _code portfolio_ for the evening part-time cour
 ### Setup Instructions
 
 * Open web browser (Chrome, Firefox, or Safari preferred)
-* Navigate to GitHub Pages site
+* Navigate to GitHub Pages site: https://witcheries.github.io/epicodus-portfolio/
 * Click on included links
 * Review code
 * ???
@@ -19,7 +17,8 @@ This is a _practice website_ and _code portfolio_ for the evening part-time cour
 
 ### Known Bugs
 
-* Index.html page in master branch not updating with code updates even though terminal shows file as tracked and changes have been committed.
+* Index.html page in master branch not updating with code updates even though terminal shows file as tracked and changes have been committed - RESOLVED by exiting out of Terminal and re-committing and pushing files to GitHub.
+* GitHub Pages not showing most recent code despite repository being up to date - RESOLVED magically, perhaps issue was due to lag between GitHub and GitHub Pages.
 
 ### Technologies used
 * HTML

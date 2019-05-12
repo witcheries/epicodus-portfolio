@@ -6,4 +6,31 @@ body {
 
 img {
   float: left;
+  padding-left: 10px;
+  padding-right: 10px;
+  height: 300px;
+}
+
+span {
+  font-weight: bold;
+}
+
+.about {
+  font-weight: lighter;
+  font-size: 19px;
+  height: 300px;
+}
+
+.column {
+  width: 600px;
+  float: left;
+}
+
+.projects {
+  font-weight: lighter;
+  font-size: 15px;
+}
+
+h1 {
+  align: center;
 }
