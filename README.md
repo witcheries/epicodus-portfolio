@@ -18,7 +18,7 @@ This is a _practice website_ and _code portfolio_ for the evening part-time cour
 ### Known Bugs
 
 * Index.html page in master branch not updating with code updates even though terminal shows file as tracked and changes have been committed - RESOLVED by exiting out of Terminal and re-committing and pushing files to GitHub.
-* GitHub Pages not showing most recent code despite repository being up to date - RESOLVED magically, perhaps issue was due to lag between GitHub and GitHub Pages.
+* GitHub Pages not showing most recent code despite repository being up to date.
 
 ### Technologies used
 * HTML
